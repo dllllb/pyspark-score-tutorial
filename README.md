@@ -4,4 +4,5 @@ Different apporached to ML model distributed infrernce for PySpark
 
 ## Links
 
-[Machine learning pipeline for Apache Spark](https://github.com/dllllb/spark-pipeline)
+- [Demo Notebook](age-pred.ipynb)
+- [Machine learning pipeline for Apache Spark](https://github.com/dllllb/spark-pipeline)
